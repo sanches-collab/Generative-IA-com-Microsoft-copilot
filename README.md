@@ -8,14 +8,10 @@ Na pasta input tem o prompt 1 e 2 que foram utilizados,e na pasta output ,os res
 
 ✨ Escrevi o prompt para Alfabetização de crianças com IA generativa 
 
-![Meu Print](https://github.com/)
-
-
 ✨ Escrevi um segundo prompt para Alfabetização de crianças com IA generativa,incluindo cuidados e como o ministério da educação está lidando com o assunto da IA nas escolas.
-Imagem do input copilot
 
  ✨ Nessa images mostra o resultado do primeiro prompt que utilizei e fiz o e-mail e mandei para mim mesma.
-  Imagens de output 
+  
 
 ## Tecnologias Utilizadas
 
